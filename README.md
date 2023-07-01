@@ -13,7 +13,7 @@ Si solo necesitas un componente específico, puedes clonar directamente su repos
 * Serás redirigido a la página de GitHub del repositorio del componente.
 * Una vez allí, haz clic en el botón "Code" y copia la URL del repositorio.
 * Abre una terminal en tu máquina local, navega al directorio donde deseas clonar el repositorio y ejecuta:
-     git clone URL-del-repositorio.
+  git clone URL-del-repositorio.
 
 ### Clonar todos los Componentes
 
