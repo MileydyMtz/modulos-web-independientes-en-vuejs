@@ -1,0 +1,30 @@
+[submodule "tooltip-component"]
+	path = tooltip-component
+	url = https://github.com/MileydyMtz/vue-tooltip-component.git
+[submodule "star-rating-component"]
+	path = star-rating-component
+	url = https://github.com/MileydyMtz/vue-star-rating-component.git
+[submodule "search-box-component"]
+	path = search-box-component
+	url = https://github.com/MileydyMtz/vue-search-box-component.git
+[submodule "product-gallery-component"]
+	path = product-gallery-component
+	url = https://github.com/MileydyMtz/vue-product-gallery-component.git
+[submodule "pagination-component"]
+	path = pagination-component
+	url = https://github.com/MileydyMtz/vue-pagination-component.git
+[submodule "notification-component"]
+	path = notification-component
+	url = https://github.com/MileydyMtz/vue-notification-component.git
+[submodule "modal-component"]
+	path = modal-component
+	url = https://github.com/MileydyMtz/vue-modal-component.git
+[submodule "menu-component"]
+	path = menu-component
+	url = https://github.com/MileydyMtz/vue-menu-component.git
+[submodule "data-table-component"]
+	path = data-table-component
+	url = https://github.com/MileydyMtz/vue-data-table-component.git
+[submodule "card-component"]
+	path = card-component
+	url = https://github.com/MileydyMtz/vue-card-component.git
