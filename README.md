@@ -12,13 +12,14 @@ Si solo necesitas un componente específico, puedes clonar directamente su repos
 * Haz clic en el submódulo correspondiente al componente que deseas en este repositorio.
 * Serás redirigido a la página de GitHub del repositorio del componente.
 * Una vez allí, haz clic en el botón "Code" y copia la URL del repositorio.
-* Abre una terminal en tu máquina local, navega al directorio donde deseas clonar el repositorio y ejecuta: git clone URL-del-repositorio.
+* Abre una terminal en tu máquina local, navega al directorio donde deseas clonar el repositorio y ejecuta:
+     git clone URL-del-repositorio.
 
 ### Clonar todos los Componentes
 
 Si prefieres clonar todos los componentes a la vez, puedes hacerlo clonando este repositorio central con todos sus submódulos. Para hacer esto, abre una terminal en tu máquina local, navega al directorio donde deseas clonar el repositorio y ejecuta:
 
-```
+```bash
 git clone --recursive https://github.com/MileydyMtz/modulos-web-independientes-en-vuejs.git
 ```
 
