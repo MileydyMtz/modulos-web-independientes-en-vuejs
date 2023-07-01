@@ -18,4 +18,8 @@ Si solo necesitas un componente específico, puedes clonar directamente su repos
 
 Si prefieres clonar todos los componentes a la vez, puedes hacerlo clonando este repositorio central con todos sus submódulos. Para hacer esto, abre una terminal en tu máquina local, navega al directorio donde deseas clonar el repositorio y ejecuta:
 
+```
+git clone --recursive https://github.com/MileydyMtz/modulos-web-independientes-en-vuejs.git
+```
+
 Este comando clonará el repositorio central y todos sus submódulos, proporcionándote una copia local de todos los componentes.
