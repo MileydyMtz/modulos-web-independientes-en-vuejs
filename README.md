@@ -5,7 +5,7 @@ Este repositorio central contiene submódulos de los repositorios donde se aloja
 * **Vitest** para las pruebas, siguiendo la metodología de TDD.
 
 ## Uso de los Componentes
-Cada componente tiene su propia documentación que detalla cómo usarlo y qué modificaciones se pueden realizar para adaptarlo a las necesidades de tu proyecto. Te recomendamos revisar la documentación de cada componente antes de utilizarlo.
+Cada componente tiene su propia documentación que detalla cómo usarlo y qué modificaciones se pueden realizar para adaptarlo a las necesidades de tu proyecto. Se recomienda revisar la documentación de cada componente antes de utilizarlo.
 
 ### Clonar un Componente Específico
 Si solo necesitas un componente específico, puedes clonar directamente su repositorio. Para hacer esto, sigue estos pasos:
@@ -19,7 +19,7 @@ Si solo necesitas un componente específico, puedes clonar directamente su repos
 
 Si prefieres clonar todos los componentes a la vez, puedes hacerlo clonando este repositorio central con todos sus submódulos. Para hacer esto, abre una terminal en tu máquina local, navega al directorio donde deseas clonar el repositorio y ejecuta:
 
-```bash
+```sh
 git clone --recursive https://github.com/MileydyMtz/modulos-web-independientes-en-vuejs.git
 ```
 
