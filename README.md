@@ -24,3 +24,41 @@ git clone --recursive https://github.com/MileydyMtz/modulos-web-independientes-e
 ```
 
 Este comando clonará el repositorio central y todos sus submódulos, proporcionándote una copia local de todos los componentes.
+
+## Instalacion
+Puede ejecutar el proyecto donde se encuentra el componente para comprobar su funcion de acuerdo al ejemplo que se presenta, para ello se recomienda lo siguiente. 
+
+### Configuración IDE recomendada
+
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+
+### Personalizar configuración
+
+See [Vite Configuration Reference](https://vitejs.dev/config/).
+
+### Configuración del Proyecto
+```sh
+npm install
+```
+
+#### Compilar y Recargar en Caliente para Desarrollo
+```sh
+npm run dev
+```
+
+#### Compilar y Minificar para Producción
+```sh
+npm run build
+```
+
+#### Ejecutar Pruebas Unitarias con [Vitest](https://vitest.dev/)
+```sh
+npm run test:unit
+```
+
+#### Lint con [ESLint](https://eslint.org/)
+```sh
+npm run lint
+```
+
+
