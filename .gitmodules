@@ -18,9 +18,9 @@
 	url = https://github.com/MileydyMtz/vue-notification-component.git
 [submodule "modal-component"]
 	path = modal-component
-	url = https://github.com/MileydyMtz/vue-modal-component.git
-[submodule "menu-component"]
-	path = menu-component
+	url = https://github.com/MileydyMtz/vue-navbar-component.git
+[submodule "navbar-component"]
+	path = navbar-component
 	url = https://github.com/MileydyMtz/vue-menu-component.git
 [submodule "data-table-component"]
 	path = data-table-component
