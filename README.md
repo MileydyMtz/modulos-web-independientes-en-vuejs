@@ -1,8 +1,10 @@
 # Módulos Web Independientes en VueJS
 Este repositorio central contiene submódulos de los repositorios donde se alojan los diferentes componentes web independientes. Cada componente ha sido desarrollado en Vue 3, utilizando las siguientes tecnologías:
-* **Vite** para la creación del proyecto.
-* **Preprocesador SCSS** para los estilos.
-* **Vitest** para las pruebas, siguiendo la metodología de TDD.
+* **Vite**: utilizado para la creación y gestión del proyecto.
+* **Preprocesador SCSS**: usado para la estilización de los componentes.
+* **Vitest**: para la implementación de pruebas, siguiendo la metodología de TDD.
+* **Prettier**: usado para garantizar un estilo de código coherente y ordenado.
+* **ESLint**: utilizado para detectar y corregir problemas en el código, ayudando a prevenir errores y mantener un estilo de código consistente.
 
 ## Uso de los Componentes
 Cada componente tiene su propia documentación que detalla cómo usarlo y qué modificaciones se pueden realizar para adaptarlo a las necesidades de tu proyecto. Se recomienda revisar la documentación de cada componente antes de utilizarlo.
